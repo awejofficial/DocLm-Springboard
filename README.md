@@ -1,4 +1,5 @@
 📚 DocLM – Groq Powered RAG Assistant
+
 ![Python](https://img.shields.io/badge/Python-3.10+-blue)
 ![LangChain](https://img.shields.io/badge/LangChain-RAG-green)
 ![Groq](https://img.shields.io/badge/Groq-LLM-orange)
