@@ -1,0 +1,9 @@
+services:
+  - type: web
+    name: docu-ai
+    runtime: python
+    buildCommand: pip install -r requirements.txt
+    startCommand: reflex run --env prod --backend-only
+    envVars:
+      - key: GROQ_API_KEY
+        sync: false
