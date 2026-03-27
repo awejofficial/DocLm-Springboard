@@ -11,3 +11,4 @@ node_modules/
 .web/
 .venv
 DOCU_AI\backend\.env
+chroma_db/
